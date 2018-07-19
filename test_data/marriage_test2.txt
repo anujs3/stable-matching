@@ -1,0 +1,4 @@
+Husband = Adam; Wife = Eve
+Husband = Ben; Wife = Greta
+Husband = Caleb; Wife = Hannah
+Husband = David; Wife = Faith
